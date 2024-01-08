@@ -6,6 +6,7 @@
   * [Book 1](english/nec/book-1/README.md)
     * [Lesson 1](english/nec/book-1/lesson-1.md)
     * [Lesson 2 ，This is your ... ?](english/nec/book-1/lesson-2-this-is-your-....md)
+    * [Lesson 3，My coat and my umbrella please](english/nec/book-1/lesson-3-my-coat-and-my-umbrella-please.md)
   * [Book 2](english/nec/book-2.md)
   * [Book 3](english/nec/book-3.md)
   * [Book 4](english/nec/book-4.md)
