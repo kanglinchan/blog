@@ -402,74 +402,133 @@ broadcast /ˈbrɔdˌkæst/ n. 广播节目 电视节目 v. 广播 播送 传播 
 broadcaster /ˈbrɔdˌkæstər/ n. 广播员 节目主持人
 
 broad-minded adj. 愿意听取他人意见的 胸怀宽阔的 有气量的
+
 narrow-minded adj. 气量小的 小心眼的 狭隘的
+
 open-minded adj. 愿意考虑不同意见的 思想开明的
+
 closed-minded adj. 保守的
+
 white book 白皮书
-white lie 善意的谎言
-True Lie 《真实的谎言》
-White House [ 白宫 ] White Hall
-as white as snow 像雪一样白
+
+white lie 善意的谎言 True Lie 《真实的谎言》 White House [ 白宫 ] White Hall as white as snow 像雪一样白
+
 as fast as passible 尽可能的快
+
 as good as I can 尽我最大的努力做好
+
 as hot as fire 像火一样热
+
 as + adj + as + 名词
+
 as red as an apple 像苹果一样红。
+
 He is as lazy as a pig. 他像猪一样懒惰。  
 
 name /neim/ n. 名字 名称 名声；名誉 v. 命名 任命 给…取名
+
 name after 用 ( 别人 , 别物的名字 ) 命名
+
 nameless /'neɪmləs/ adj. 无名的 不知名的 匿名的 隐姓埋名的
+
 namely /'neɪmli/ adj. 即 也就是 换句话说
+
 surname //'sɜː(r).neɪm/ n. 姓 姓氏
+
 last name 姓 姓氏 ( 外国人名字，名在前姓在后）
+
 last /lɑːst/ adv. 最后 最近 最终 adj. 末尾的 最后剩下的
+
 first name 名字 （首先的名字是名）
+
 first /fɜrst/ adv. 第一 最重要的 最优秀的 首先
+
 middle name 中名（名和姓之间的名字）
+
 middle /'mɪd(ə)l/ adj. 中间的 中央的 n. 中间 中部
+
 alias /eɪliəs/ n. 化名 别名 假名
+
 rename /riˈneɪm/ v. 重新命名 给…改名
+
 name-brand 名牌货
+
 name-calling n. 辱骂
+
 nameplate /'neɪm.pleɪt/ n. 名匾 名称牌
+
 plate /pleɪt/ n. 盘子 板块 板材 碟子 v. 电镀 为…加设护板
+
 name tag 名牌 胸佩 胸牌
+
 tag /tæɡ/ n. 标记 标签 标牌 称呼 v. 给…加上标签 把…称作
+
 tag along [ 非正式 ] 跟随；尾随
+
 operate /'ɑpə.reɪt/ v. 操作 工作 运转 动手术 运作 营运
+
 operate on 对…施行手术 用…开动
+
 operable /'ɑp(ə)rəbl/ adj. 运作的 可实行的 可使用的 可动手术的
+
 inoperable /ɪnˈɑpərəb(ə)l/ adj. 无法使用的 不能实行的 不实用的
+
 operability /ɒpərə'bɪlɪtɪ/ n. 操作性 可手术性 运行能力
+
 operation /.ɑpə'reɪʃ(ə)n/ n. 操作 运行 手术 运作
+
 operational /ɑpə'reɪʃən(ə)l/ adj. 可使用 操作的 运转的
+
 operationally adv. 在运行 / 运营上
+
 operationalize /ˌɒpə'reɪʃənlaɪz/ v. 使工作；投入生产
-◆ operator /'ɔpəreitə/ n. 操作人员（+er/or 表示某种职业）
+
+operator /'ɔpəreitə/ n. 操作人员（+er/or 表示某种职业）
+
 operating adj. 运行的 操作的 工作的 关于业务的
+
 operating income 营业收入
+
 operations research 运筹学
+
 operative /ˈɑp(ə)rətɪv/ adj. 可使用 在使用中 手术的
+
 inoperative /ɪnˈɑpərətɪv/ adj. 无效的 不能实行的 不运转的
+
 cooperate /koʊˈɑpəˌreɪt/ v. 合作 配合 协作 结合 = co-operate
+
 cooperate with 协作 合作
+
 cooperation /koʊˌɒpəˈreɪʃ(ə)n/ n. 合作 配合
-cooperative /koʊˈɑp(ə)rətɪv/ adj. 合作的 协作的 同心协力的
-n. 合作企业 合作社组织
+
+cooperative /koʊˈɑp(ə)rətɪv/ adj. 合作的 协作的 同心协力的 n. 合作企业 合作社组织
+
 cooperatively adv. 合作地
+
 cooperator n. 合作协作者 合作社社员
+
 corporate /ˈkɔrp(ə)rət/ adj. 公司的 法人的 社团的
+
 corporate culture 企业文化
+
 corporation /ˌkɔrpəˈreɪʃ(ə)n/ n. 公司 法人团体 市政委员会
+
 corporatist n. 社团主义者
+
 corporatism /'kɔrp(ə)rə.tɪzəm/ n. 社团主义
+
 incorporate /ɪnˈkɔrpəˌreɪt/ v. 包含 吸收 使并入 adj. 法定组织的
+
 incorporation n. 公司 合并
+
 culprit /ˈkʌlprɪt/ n. 罪犯 肇事者 犯错的人
+
 engine /'endʒɪn/ n. 发动机 引擎 机车
-◆ engineer /endʒi'niə/ n. 工程师 v. 密谋策划 设计制造 改变 基因
+
+engineer /endʒi'niə/ n. 工程师 v. 密谋策划 设计制造 改变 基因
+
 engineering /endʒɪ'nɪrɪŋ/ n. 工程学
+
 engineering standards 工程技术标准  
 
 
@@ -505,11 +564,24 @@ engineering standards 工程技术标准
 | What size is this skirt?  | 这条裙子是多大号的？   | What do you want?           | 你想要什么？           |
 
 一般疑问句：be 动词 + ... : Is this your handbag?
+
 所有的一般疑问句要用升调来读
+
 一般疑问句可用 yes, no 回答 , 什么来问就用什么来答 :
-Is this your handbag ? Yes, it is my handbag. No, it is not my handbag.
-● 选择疑问句加 or 不能用 yes no 回答
-Is the apple red or green ？ The apple is red. It is not green.
+Is this your handbag ? 
+
+Yes, it is my handbag.
+
+ No, it is not my handbag.
+
+
+
+ 选择疑问句加 or 不能用 yes no 回答
+
+Is the apple red or green ？ 
+
+The apple is red. It is not green.
+
 那苹果是红的还是绿的？那苹果是红的。它不是绿的。  
 
 
