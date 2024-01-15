@@ -11,6 +11,7 @@
     * [Lesson 5 Nice to meet you?](english/nec/book-1/Lesson-5-nice-to-meet-you.md)
     * [Lesson 6 What make is it?](english/nec/book-1/Lesson-6-What-make-is-it.md)
     * [Lesson7 Are you a teacher?](english/nec/book-1/Lesson7-Are-you-a-teacher.md)
+    * [Lesson 8 What's your job?](english/nec/book-1/Lesson-8-What's-your-job.md)
   * [Book 2](english/nec/book-2.md)
   * [Book 3](english/nec/book-3.md)
   * [Book 4](english/nec/book-4.md)
