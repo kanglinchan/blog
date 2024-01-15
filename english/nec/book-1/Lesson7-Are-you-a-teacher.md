@@ -589,15 +589,27 @@ The apple is red. It is not green.
 ### Oral English | 口语 SAYING GOODBYE 说再见  
 
 See you (soon/later/next time / ...)
+
 Good night. / Goodbye. / Bye-bye.
+
 It's nice to see you. 很高兴见到你。
+
 How time flies! I have to be going now. 时间过得真快 ! 现在我不得不走了。
+
 I must go off/be off/be leaving. 我必须得走了。
+
 I suppose I'd better go. 我想我最好还是走吧。
+
 I'm really enjoying meeting you. 很高兴见到你。
+
 It's a pleasure to be with you here, but ... 很高兴跟你在一起，但是。。。
+
 I can't believe that time has come to say goodbye to you. 真是不敢相信，时间到了该说再见的时刻。
+
 Thank you for all you've done for me. 谢谢你为我做的一切。
+
 Let's keep in touch. / Don't forget to drop me a line. 让我们保持联系 / 不要忘记给我写信。
+
 All the best to you. / Remember me to you ... 祝你一路平安 / 代我向你 ... 问好。
+
 We must get together again soon. 我们很快会见面。  
