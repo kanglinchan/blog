@@ -185,79 +185,133 @@ divestment /daɪ'vestmənt/ n. 转让股份 撤销投资 ≠ investment
 hair /her/ n. 毛发 （尤指）头发
 
 make one's hair stand on end 毛骨悚然的 使人害怕
+
 hairy /ˈheri/ adj. 多毛的 惊险的 可怕但刺激的
+
 dress /dres/ v. 穿衣服 装饰 打扮 布置 n. 衣服 连衣裙 adj. 盛装的
+
 dresser /'dresər/ n. 梳妆台 化妆台
-◆ hairdresser /'heə,dresə/ n. 理发师 (hair + dresser)
+
+hairdresser /'heə,dresə/ n. 理发师 (hair + dresser)
+
 barber /'bɑrbər/ n. 理发师 ( 常见）
+
 salon /sə'lɑn/ n. 沙龙 美发厅 美容院
+
 hair dryer 吹风机
+
 hair style 发型 =hairstyle, haircut, hairdo n. 发型 理发 发式
+
 hairstylist n. 美发师 发型设计师
+
 hairbrush /ˈherˌbrʌʃ/ n. 发刷 毛刷
+
 brush /brʌʃ/ v. 掸 刷平顺 涂 掠过 n. 刷 画笔 刷子 毛刷
+
 hairless /ˈherləs/ adj. 无发的 无毛的 秃的
+
 hairline /ˈherˌlaɪn/ n. 发际线 很细的裂纹 极细的线
+
 hairpiece /ˈherˌpis/ n. 假发
+
 hairspray n. 发胶 定型剂
+
 air / n. 空气 空中 天空 v. 晾 播出 播送 晾干
+
 host / n. 主人 许多 无数 大量 v. 款待 当主人 主办 ( 宴会等 ) 主持节目
+
 on the air 播送中 正在广播
+
 live adj. 现场直播的 实况转播的 现场演出的
+
 hostess /'hoʊstəs/ n. 女主人 女招待 女主持人
-◆ air hostess /'eə-'həustəs/ 空中小姐
+
+air hostess /'eə-'həustəs/ 空中小姐
+
 air force 空军 air fare 飞机票价 航空票价 air express 航空快信
+
 airless /ˈerləs/ adj. 没有新鲜空气的 没有一丝风的 空气沉闷的
+
 airline /ˈerˌlaɪn/ n. 航空公司
+
 airliner /ˈerˌlaɪnər/ n. 班机 大型客机
+
 airmail /ˈerˌmeɪl/ n. 航空邮件 航空邮政 v. 航空邮寄
+
 airman /ˈermən/ n. 航空兵
+
 airbag n. 安全气囊
+
 airborne /ˈerˌbɒrn/ adj. 飞行中 升空后 空降的
+
 airbrush /ˈerˌbrʌʃ/ n. 喷枪 v. 用喷枪喷绘 用气笔修改
+
 air-condition v. 在…装设空气调节器
+
 airconditioner = air-conditioner n. 空调
+
 aircraft /ˈerˌkræft/ n. 飞机 飞行器
+
 aircraft carrier 航空母舰
+
 aircrew /ˈerˌkru/ n. 空勤人员 飞机乘务员 机组人员
 airfield /ˈerˌfild/ n. 飞机场
 airlift /ˈerˌlɪft/ n. 空运 空投 v. 空运 空投  
 
 house /haʊs/ n. 房子 房屋 住宅 舍 v. 安置 收藏
+
 wife /waɪf/ n. 妻子 太太 老婆 夫人
-◆ housewife /'hauswaif/ n. 家庭主妇 (house +wife)
+
+housewife /'hauswaif/ n. 家庭主妇 (house +wife)
+
 house /haʊz/ n. 房子 （助记：好房子）
-louse /laʊs/ n. 虱子 [ 复数 lice ]（助记：老死在房子里的只有虱子）
-He is a big louse in his family. 他是他家最不受欢迎的人 .
+
+louse /laʊs/ n. 虱子 [ 复数 lice ]（助记：老死在房子里的只有虱子）He is a big louse in his family. 他是他家最不受欢迎的人 .
+
 rouse /raʊz/ v. 唤醒 使醒来 激起 n. 觉醒 奋起
+
 arouse /əˈraʊz/ v. 发 唤醒 激起 激起性欲
-arousal /əˈraʊz(ə)l/ n. 唤起
-This book rouses my interest in English.
-这本书唤起了我学英语的兴趣 .
-douse /daʊs/ v. 浇灭火 熄灯 往…上泼水 n. 泡 倾注 ( 助记：倒水浇灭）
-This book can not douse my interest in English.
-这本书不能浇灭 我学英语的兴趣 .
+
+arousal /əˈraʊz(ə)l/ n. 唤起 This book rouses my interest in English. 这本书唤起了我学英语的兴趣 .
+
+douse /daʊs/ v. 浇灭火 熄灯 往…上泼水 n. 泡 倾注 ( 助记：倒水浇灭）This book can not douse my interest in English. 这本书不能浇灭我学英语的兴趣 .
+
 horse /hɔːs/ n. 马
-mice /mais/ n. 鼠标 老鼠 耗子 ( 复数 mouse)
-mouse /maʊs/ n. 鼠标 老鼠 耗子 v. 搜寻 捉耗子 来回窥探
-post /poʊst/ n. 邮政 桩 岗位 职位
-v. 寄 邮寄 发布 张贴 (poster n. 海报）
-◆ postman /'pəustmən/ n. 邮递员 (post + man)
-post card = postcard n. 明信片
-post code 邮政编码 = postal code
+
+mice /mais/ n. 鼠标 老鼠 耗子 ( 复数 mouse)mouse /maʊs/ n. 鼠标 老鼠 耗子 v. 搜寻 捉耗子 来回窥探
+
+post /poʊst/ n. 邮政 桩 岗位 职位  v. 寄 邮寄 发布 张贴 (poster n. 海报）
+
+postman /'pəustmən/ n. 邮递员 (post + man)
+
+post card = postcard n. 明信片post code 邮政编码 = postal code
+
 postage /ˈpoʊstɪdʒ/ n. 邮资 邮费
+
 postal /ˈpoʊst(ə)l/ adj. 邮政的 邮递的 邮寄物品的 邮寄的
+
 postal address 邮寄地址 邮投递地址
+
 postbox /ˈpoʊs(t)ˌbɑks/ n. 邮箱 邮筒 = mailbox
+
 postdate /ˌpoʊstˈdeɪt/v. 把日期填迟 在…上填事后日期
-post 这个词根后经常表示 ... 过后
-如 : post-pandemic adj. 疫情后的 , postgraduate n. 研究生
+
+post 这个词根后经常表示 ... 过后 如 : post-pandemic adj. 疫情后的 , postgraduate n. 研究生
+
 postdoctoral /ˌpoʊstˈdɑkt(ə)rəl/ adj. 博士后的
+
 postpone /poʊsˈpoʊn/ v. 延期 延迟 展缓
+
 postponement n. 延期 推迟
+
 postfix /ˌpoʊstfɪks/ v.n. 后缀加后缀于 加词尾于
+
 prefix /ˈpriːfɪks/ n. 前缀 v. 加前缀于 加词于 ... 前
+
 milk /mɪlk/ n. 奶 乳汁 乳液 v. 挤奶 趁机牟利 捞一把 捞好处
-◆ milkman /'milkmən/ n. 送牛奶的人（milk + man)
+
+milkman /'milkmən/ n. 送牛奶的人（milk + man)
+
 milky /ˈmɪlki/ adj. 奶制的 含奶多的 奶的 像奶的
+
 milky way 银河  
