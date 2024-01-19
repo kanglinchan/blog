@@ -19,5 +19,8 @@
 
 ## Code
 
-* [Web](code/web.md)
-* [Server](code/server.md)
+* [Web](code/web/README.md)
+  * [Browser](code/web/browser.md)
+* [Server](code/server/README.md)
+  * [Start up Java](code/server/start-up-java/README.md)
+    * [Basic](code/server/start-up-java/basic.md)
