@@ -735,4 +735,45 @@ master_secret = PRF(pre_master_secret, "master secret",
 
 第二个，因为使用了 ECDHE，客户端可以不用等到服务器发回“Finished”确认握手完毕，立即就发出 HTTP 报文，省去了一个消息往返的时间浪费。这个叫“**TLS False Start**”，意思就是“抢跑”，和“TCP Fast Open”有点像，都是不等连接完全建立就提前发应用数据，提高传输的效率。
 
-### HTTPS协议
+### HTTPS的整体流程 <a href="#blogtitle12" id="blogtitle12"></a>
+
+既然已经搞清楚了CA机构、CA证书、对称加密、非对称加密、HASH散列，那么我们将其流程窜起来就是HTTPS的工作流程了，如图：
+
+![](https://nc.haut.edu.cn/\_\_local/F/1C/D8/77790A1838EA0FC425A9F35A9B9\_26D33EF4\_3A4CD.png?e=.png)
+
+\
+
+
+流程解析，前提是已经建立了TCP连接：
+
+1）客户端向服务器发送Client Hello，其中包含一个随机数1（Random1），还有客户端支持的加密方式（一个列表），如下所示：
+
+![](https://nc.haut.edu.cn/\_\_local/C/F9/A4/E76792B1157B35462362DD64535\_CC98CC9D\_FC0A.png?e=.png)
+
+2）服务器返回Server Hello，包含random2随机数，和选定的加密方式，如下所示：\
+
+
+3）服务器发送CA证书给客户端，如下所示：
+
+![](https://nc.haut.edu.cn/\_\_local/0/AA/EA/6908859CD27107991B93ACBBDD4\_FD0A745B\_953A.png?e=.png)
+
+4）验证证书合法性，即解密数字签名，计算HASH值，然后进行对比
+
+5）验证通过后，客户端生成一个random3随机数，并连同random1和random2（之前通讯时发送给服务器的random1，以及服务器发送给客户端的random2），计算出一个key值（就是后面进行对称加密用的key）。
+
+6）使用CA证书中的PK，对random3进行加密（key的一部分，并非key本身，因为黑客也可能拿到证书中的PK），并发送给服务器。
+
+7）服务器收到加密后的random3，使用SK（证书中公钥PK对应的私钥，在百度服务器上保存着）解密，得到random3。
+
+8）同样使用random1、random2和random3计算一个key值，计算方式是大家协商好的，所以计算出的key值和客户端计算出的key值应该是一样的。这个key就是对称加密使用的秘钥。
+
+9）客户端通过key对数据进行加密，发送给服务器，服务器使用key解密数据。
+
+10）服务器通过key对数据进行加密，发送给客户端，客户端使用key解密数据。\
+
+
+至此，整个HTTPS的大体流程就完成了。
+
+\
+
+
