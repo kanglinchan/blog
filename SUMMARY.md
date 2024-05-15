@@ -26,3 +26,5 @@
 * [Server](code/server/README.md)
   * [Start up Java](code/server/start-up-java/README.md)
     * [Basic](code/server/start-up-java/basic.md)
+  * [系统架构学习笔记](code/server/xi-tong-jia-gou-xue-xi-bi-ji/README.md)
+    * [系统架构设计 P1](code/server/xi-tong-jia-gou-xue-xi-bi-ji/xi-tong-jia-gou-she-ji-p1.md)
