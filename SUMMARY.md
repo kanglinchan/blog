@@ -28,3 +28,6 @@
     * [Basic](code/server/start-up-java/basic.md)
   * [系统架构学习笔记](code/server/xi-tong-jia-gou-xue-xi-bi-ji/README.md)
     * [系统架构设计 P1](code/server/xi-tong-jia-gou-xue-xi-bi-ji/xi-tong-jia-gou-she-ji-p1.md)
+    * [系统架构设计 P2](code/server/xi-tong-jia-gou-xue-xi-bi-ji/xi-tong-jia-gou-she-ji-p2.md)
+    * [系统架构设计 P3](code/server/xi-tong-jia-gou-xue-xi-bi-ji/xi-tong-jia-gou-she-ji-p3.md)
+    * [系统架构设计 P4](code/server/xi-tong-jia-gou-xue-xi-bi-ji/xi-tong-jia-gou-she-ji-p4.md)
