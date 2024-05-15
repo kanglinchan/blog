@@ -2284,7 +2284,9 @@ Lambda架构与 Kappa架构的对比两种架构特性对比
 
 #### 电商智能决策大数据系统
 
-该智能决策大数据平台基于 Kappa架构，使用统一的数据处理引擎 Funk可实时处理流数据，并将其存储到数据仓库工具 Hive与分布式缓存 Tair中，以供后续决策服务的使用。如图 所示。
+该智能决策大数据平台基于 Kappa架构，使用统一的数据处理引擎 Funk可实时处理流数据，并将其存储到数据仓库工具 Hive与分布式缓存 Tair中，以供后续决策服务的使用。如图所示。
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 实时处理的过程如下：
 
