@@ -31,3 +31,5 @@
     * [系统架构设计 P2](code/server/xi-tong-jia-gou-xue-xi-bi-ji/xi-tong-jia-gou-she-ji-p2.md)
     * [系统架构设计 P3](code/server/xi-tong-jia-gou-xue-xi-bi-ji/xi-tong-jia-gou-she-ji-p3.md)
     * [系统架构设计 P4](code/server/xi-tong-jia-gou-xue-xi-bi-ji/xi-tong-jia-gou-she-ji-p4.md)
+  * [Database](code/server/database/README.md)
+    * [MySQL 基础](code/server/database/mysql-ji-chu.md)
