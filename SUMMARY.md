@@ -33,3 +33,7 @@
     * [系统架构设计 P4](code/server/xi-tong-jia-gou-xue-xi-bi-ji/xi-tong-jia-gou-she-ji-p4.md)
   * [Database](code/server/database/README.md)
     * [MySQL 基础](code/server/database/mysql-ji-chu.md)
+
+## Notes
+
+* [写作学习笔记](notes/xie-zuo-xue-xi-bi-ji.md)
